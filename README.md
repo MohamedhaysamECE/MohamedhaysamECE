@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Haitham Afify</h1>
-
+<img width="250" align="right" src="https://camo.githubusercontent.com/57deca4d5f524c4e4d80ab9b5aec08a45f2a2a3f8c6a73cc8ebee1df9b817607/68747470733a2f2f692e67697068792e636f6d2f6d656469612f646f58427a55464a5278706155627561717a2f67697068792e77656270" data-canonical-src="https://i.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.webp" style="max-width: 100%;">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00E5FF&center=true&width=500&lines=FPGA+%2F+ASIC+Design+Engineer;RTL+%26+Verification+Specialist" alt="Typing SVG"/>
 </p>
