@@ -3,7 +3,7 @@
 
 <h1>Hi 👋, I'm Mohamed Haitham Afify</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=00E5FF&width=480&lines=Digital+IC+Design+Engineer;FPGA+%2F+ASIC+Flow+Expert;RTL+%26+Verification+Specialist" alt="Typing SVG"/>
+font=Orbitron&size=20&pause=1000&color=00E5FF&width=480&lines=Digital+IC+Design+Engineer;FPGA+%2F+ASIC+Flow+Expert;RTL+%26+Verification+Specialist" alt="Typing SVG"/>
 
 <p><em>Digital IC Design & Verification Engineer · Zagazig University, Egypt</em></p>
 
@@ -12,12 +12,6 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/mohamed-bhary"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
-
-</td>
-<td align="center" width="45%">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="280" alt="chip design"/>
-</td>
-</tr></table>
 
 ---
 
